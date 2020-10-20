@@ -35,5 +35,6 @@ export default class PanelComponent extends React.PureComponent<Props> {
 }
 
 export {
+  Panel,
   PanelStyle
 }
