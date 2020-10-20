@@ -1,5 +1,5 @@
 {
-  "name": "react-tabtab",
+  "name": "react-tabtab-custom",
   "version": "2.0.0",
   "description": "A mobile support, draggable, editable and api based Tab for ReactJS",
   "main": "lib/",
