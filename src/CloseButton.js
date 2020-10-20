@@ -5,7 +5,8 @@ import styled from 'styled-components';
 
 const CloseWrapper = styled.button`
   display: inline-block;
-  color: #777;
+  color: black;
+  background-color: blue;
   margin-left: 5px;
   padding: 0;
   vertical-align: middle;
@@ -13,10 +14,9 @@ const CloseWrapper = styled.button`
   padding: 2px;
   outline: 0;
   &:hover {
-    color: black;
-    background-color: #eee;
+    color: blue;
+    background-color: white;
     cursor: pointer;
-    border-radius: 50%;
   }
   > svg {
     vertical-align: middle;
